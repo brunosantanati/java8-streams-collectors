@@ -1,4 +1,4 @@
-package me.brunosantana.java8_streams_collectors.example8;
+package me.brunosantana.java8_streams_collectors.example08;
 
 import java.util.List;
 import java.util.stream.DoubleStream;

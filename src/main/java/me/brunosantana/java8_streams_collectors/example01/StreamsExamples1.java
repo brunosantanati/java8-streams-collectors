@@ -1,4 +1,4 @@
-package me.brunosantana.java8_streams_collectors.example1;
+package me.brunosantana.java8_streams_collectors.example01;
 
 import java.util.List;
 import java.util.stream.Stream;

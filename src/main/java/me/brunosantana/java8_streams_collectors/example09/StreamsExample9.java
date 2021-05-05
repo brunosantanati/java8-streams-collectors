@@ -1,4 +1,4 @@
-package me.brunosantana.java8_streams_collectors.example9;
+package me.brunosantana.java8_streams_collectors.example09;
 
 import java.util.ArrayList;
 import java.util.Comparator;
